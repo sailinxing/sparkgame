@@ -1,0 +1,8 @@
+.idea/
+modules/geely-metadata/target/
+*.iml
+*/*.iml
+geely-metadata.iml
+modules/geely-metadata/target/
+*.log
+*/*.log
